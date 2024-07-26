@@ -1,0 +1,22 @@
+"id","item_name","category","size","color","price","stock_quantity"
+1,"Basic T-shirt","Shirt","M","Blue",20,100
+2,"Denim Jeans","Pants","32","Black",50,50
+3,"Leather Jacket","Jacket","L","Brown",130,20
+4,"Wool Sweater","Sweater","S","Gray",40,30
+6,"Formal Shirt","Shirt","L","White",30,40
+7,"Cargo Shorts","Shorts","M","Khaki",35,60
+8,"Flannel Shirt","Shirt","S","Red",26,50
+9,"Trench Coat","Jacket","M","Beige",100,25
+10,"Sneakers","Footwear","10","Black",80,55
+11,"Tank Top","Shirt","L","Green",16,120
+12,"Chinos","Pants","34","Navy",45,45
+13,"Polo Shirt","Shirt","M","Yellow",23,35
+14,"Leather Boots","Footwear","8","Brown",120,20
+15,"Cardigan","Sweater","L","Black",50,28
+16,"Gym Shorts","Shorts","M","Blue",19,75
+17,"Windbreaker","Jacket","S","Orange",60,40
+18,"Jogging Pants","Pants","L","Gray",30,85
+19,"Bermuda Shorts","Shorts","M","White",100,65
+21,"Graphic Tee","Shirt","M","White",100,90
+5,"Running Shoes","Footwear","9","White",89,65
+20,"Winter Coat","Jacket","M","Dark Blue",100,10
